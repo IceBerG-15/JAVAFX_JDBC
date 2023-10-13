@@ -1,8 +1,10 @@
 
 Done this in Eclipse IDE
+
 REMEMBER TO THESE:
 
 1- add javafx libraries in ur package folder.. for this .. right click package folder->build path->config build path->select modular->add lib.
+
 2- add jdbc jar file using the same above process.
 
 TO RUN:
